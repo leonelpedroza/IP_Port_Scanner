@@ -1,0 +1,30 @@
+# IP Port Network Scanner - Requirements
+# =====================================
+#
+# This application uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Python Version Requirement: Python 3.7+
+#
+# Standard Library Modules Used:
+# - tkinter (GUI framework)
+# - socket (network connections)
+# - struct (binary data handling)
+# - threading (multi-threading support)
+# - time (time-related functions)
+# - datetime (date and time handling)
+# - csv (CSV file operations)
+# - os (operating system interface)
+# - json (JSON data handling)
+# - ipaddress (IP address manipulation)
+# - webbrowser (web browser controller)
+# - subprocess (subprocess management)
+# - platform (platform identification)
+# - ssl (SSL/TLS support)
+# - queue (thread-safe queues)
+# - concurrent.futures (high-level threading)
+# - re (regular expressions)
+# - random (random number generation)
+# - base64 (base64 encoding/decoding)
+#
+# No pip install required!
