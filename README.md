@@ -1,4 +1,15 @@
 # IP Port Network Scanner
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Networking-blue?style=for-the-badge&logo=python&logoColor=white">
+</p>
+##
+
 English Version
 ![](https://github.com/leonelpedroza/ip_monitor/blob/main/UKFlag.png)
 
@@ -8,11 +19,6 @@ I've long wanted to make my own TCP/UDP/ICMP port scanning tool. Something that 
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-</p>
 
 A comprehensive network scanning tool with GUI that allows scanning TCP/UDP ports and ICMP with advanced features including proxy support, jump server capability, and multilingual interface.
 
